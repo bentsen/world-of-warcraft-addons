@@ -1,0 +1,8 @@
+## Interface: 50400
+## Title: Teleport Helper
+## Notes: Shows available teleports when pressing ESC
+## Author: bønne
+## Version: 1.0
+## SavedVariables: TeleportHelperDB
+
+TeleportHelper.lua
